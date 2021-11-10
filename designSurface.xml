@@ -1,0 +1,43 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/ACHCliente/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/ACHServer/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/activity_categorias.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/activity_cliente_mapa.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/activity_clientes.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/activity_clientes_mapa.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/activity_cobranza.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/activity_edit_cliente.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/activity_main.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/activity_pagos.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/activity_pedido_detalle.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/activity_pedidos.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/opcion_cliente.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/opcion_cobranza.xml" value="0.22" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/opcion_pedido.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/menu/menu_accesorio.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/menu/menu_cliente.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/menu/menu_cobranza.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/menu/menu_detalle.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/menu/menu_pago.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/menu/menu_pedido.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/CovaluVentas/app/src/main/res/layout/activity_calendario.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/CovaluVentas/app/src/main/res/layout/activity_cambia_precio.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/CovaluVentas/app/src/main/res/layout/activity_configuracion.xml" value="0.22" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/CovaluVentas/app/src/main/res/layout/activity_dlg_confirmar.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/CovaluVentas/app/src/main/res/layout/activity_existencias.xml" value="0.22" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/CovaluVentas/app/src/main/res/layout/activity_lista_precios.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/CovaluVentas/app/src/main/res/layout/activity_main.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/CovaluVentas/app/src/main/res/layout/activity_pedido_detalle.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/CovaluVentas/app/src/main/res/layout/activity_ventas.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/CovaluVentas/app/src/main/res/layout/opcion_calendario.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/CovaluVentas/app/src/main/res/layout/opcion_existencia.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/CovaluVentas/app/src/main/res/layout/opcion_listaprecio.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/CovaluVentas/app/src/main/res/menu/cambia_precio.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/CovaluVentas/app/src/main/res/menu/menu_listaprecios.xml" value="0.18333333333333332" />
+      </map>
+    </option>
+  </component>
+</application>
