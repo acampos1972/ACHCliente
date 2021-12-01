@@ -5,7 +5,7 @@
         <entry key="..\:/Users/Alfredo/AndroidStudioProjects/ACHCliente/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
         <entry key="..\:/Users/Alfredo/AndroidStudioProjects/ACHServer/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
         <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/drawable/formatobarraprogreso.xml" value="0.2140625" />
-        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout-land/activity_pedido_detalle.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout-land/activity_pedido_detalle.xml" value="0.6" />
         <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/activity_acercade.xml" value="0.3333333333333333" />
         <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/activity_categorias.xml" value="0.3333333333333333" />
         <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/activity_cliente_mapa.xml" value="0.18333333333333332" />
@@ -19,12 +19,14 @@
         <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/activity_importar_productos.xml" value="0.1" />
         <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/activity_main.xml" value="0.19895833333333332" />
         <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/activity_pagos.xml" value="0.18333333333333332" />
-        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/activity_pedido_detalle.xml" value="0.22" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/activity_pedido_detalle.xml" value="0.19895833333333332" />
         <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/activity_pedido_detalleh.xml" value="0.17291666666666666" />
         <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/activity_pedidos.xml" value="0.3333333333333333" />
         <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/activity_respaldos.xml" value="0.19895833333333332" />
-        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/opcion_accesorio.xml" value="0.19895833333333332" />
-        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/opcion_accesorio2.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/opcion_accesorio.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/opcion_accesorio2.xml" value="0.22" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/opcion_accesorio3.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/opcion_accesorio4.xml" value="0.4466666666666667" />
         <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/opcion_cliente.xml" value="0.3333333333333333" />
         <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/opcion_cobranza.xml" value="0.22" />
         <entry key="..\:/Users/Alfredo/AndroidStudioProjects/AccesoriosCelulares/app/src/main/res/layout/opcion_idval.xml" value="0.3333333333333333" />
